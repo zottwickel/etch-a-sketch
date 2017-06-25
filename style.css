@@ -1,0 +1,49 @@
+* {
+	
+}
+
+
+button {
+	font-family: arial, sans-serif;
+	padding: 10px 20px 10px 20px;
+	text-align: center;
+	border-radius: 8px;
+	border-width: 5px;
+	border-style: double;
+	border-color: #008C00;
+	background-color: #004C00;
+	color: white;
+}
+
+button:hover{
+	background-color: #005D00;
+}
+
+.buttons{
+	text-align: center;
+	margin: 30px;
+}
+
+.grid {
+	background-color: gray;
+	height: 20px;
+	width: 20px;
+	float: left;
+	
+}
+.container {
+	padding: 10px;
+	border-style: solid;
+	border-color: #008C00;
+	border-radius: 8px;
+	width: 320px;
+	height: 320px;
+	margin: auto;
+	background-color: #004C00;
+}
+.hover{
+	background-color: #292929;
+	height: 20px;
+	width: 20px;
+	float: left;
+}
